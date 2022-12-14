@@ -94,4 +94,4 @@ Modelo entidad/relación
 
 
 Base de datos para MySQL
-https://www.db-fiddle.com/f/nqK9r38sQeE3FJZQ5YqCtF/4
+https://www.db-fiddle.com/f/3hocFzxfATNbpXupe7HVQs/0
