@@ -66,7 +66,7 @@ principales, las ventajas y desventajas. (valor 6)
 
 ![image](https://user-images.githubusercontent.com/91554777/170415427-e2b7321b-a97f-43b0-ac24-6e506c307e6b.png)
 
-
+![mapa conceptual gestores de bases datos](https://user-images.githubusercontent.com/116111271/207476518-c16cd24d-e928-4340-b638-f1634d906045.png)
 
 
 ## Práctica 6.
@@ -83,7 +83,7 @@ Tienda de informática
 
 ![image](https://user-images.githubusercontent.com/91554777/170415101-717bca19-3644-46a9-8a57-8d5940c5d283.png)
 
-![mapa conceptual gestores de bases datos](https://user-images.githubusercontent.com/116111271/207476518-c16cd24d-e928-4340-b638-f1634d906045.png)
+
 
 
 
