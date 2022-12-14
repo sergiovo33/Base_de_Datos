@@ -9,9 +9,17 @@ Ejercicio:
 
 1. ¿Qué es un DataWarehouse?(valor 2)
 
+Es una plataforma utilizada para recolectar y analizar datos provenientes de múltiples fuentes heterogéneas. Esta plataforma reúne diversas tecnologías y componentes que permiten explotar los datos. Permite almacenar una gran cantidad de datos, así como también su tratamiento y análisis. Su objetivo es transformar los datos brutos en informaciones útiles, y volverlos disponibles y accesibles para los usuarios.
+
 2. Realiza un diseño del modelo en estrella (valor 2)
 
+![modelo-en-estrella](https://user-images.githubusercontent.com/116111271/207483207-c9d5550b-2107-4434-8269-690c999502cf.png)
+
+
 3. Realiza un diseño del modelo copo de nieve (valor 2)
+
+![modelo-en-copo-de-nieve](https://user-images.githubusercontent.com/116111271/207502146-302747ce-6bce-401d-8e3f-9c6c79a7fdb7.png)
+
 
 
 ## Práctica 7
