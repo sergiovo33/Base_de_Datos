@@ -29,3 +29,8 @@ precio y categoría.
 un código de categoría único.
 
 ● Una pieza sólo puede pertenecer a una categoría.
+
+![modelo entidad-relacion-proyecto-final](https://user-images.githubusercontent.com/116111271/208187914-cb81afcf-8394-4d82-ba9e-2d066dae9e46.png)
+
+
+https://www.db-fiddle.com/f/rf1bs4xDezBQZxMeGTVzkP/0
